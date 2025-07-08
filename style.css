@@ -82,16 +82,6 @@ body {
     animation: fall 5s infinite;
 }
 
-.img-gift {
-    margin: auto;
-    border-radius: 10px;
-    width: 300px;
-    height: 200px;
-    background-image: url(./123.gif);
-    background-size: cover;
-    background-position: top center;
-}
-
 .hidden {
     display: none;
 }
